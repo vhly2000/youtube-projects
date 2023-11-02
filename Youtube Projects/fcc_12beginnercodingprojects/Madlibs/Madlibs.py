@@ -20,4 +20,3 @@ I love to {verb1}. Stay hydrated and {verb2} jump like you are {famous_person}!"
    
 print(madlib)
 
-#reformatting 
